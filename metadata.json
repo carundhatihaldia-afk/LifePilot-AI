@@ -1,0 +1,6 @@
+{
+  "name": "LifePilot AI",
+  "description": "AI-powered everyday life assistant that turns your daily problems, tasks, and responsibilities into practical action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
